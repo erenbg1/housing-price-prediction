@@ -33,11 +33,6 @@ The dataset consists of 50,000 entries with the following features:
 - Best Parameters for XGBoost Regressor
 - Final model performance: MSE and R²
 
-## How to Run
-1. Clone the repository: `git clone https://github.com/your-username/housing-price-prediction.git`
-2. Navigate to the repository directory.
-3. Open the Jupyter notebook `Data Mining.ipynb` and run the cells to reproduce the results.
-
 ## Recommendations
 - Focus on key features such as `SquareFeet` and `Neighborhood`.
 - Regularly update the model with new data.
